@@ -2,4 +2,9 @@ Nihal
 
 1-july-2021
 
-git flow init
+1.git flow init
+
+//git add .
+//git commit -m " "
+
+git push origin --all
