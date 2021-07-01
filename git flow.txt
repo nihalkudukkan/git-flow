@@ -9,3 +9,5 @@ develop branch
 git flow feature start poinless-comments
 
 //add and commit and push
+
+git flow feature finish
